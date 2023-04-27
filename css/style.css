@@ -1,0 +1,13 @@
+.header {
+    background-color: black;
+    display: flex;
+}
+
+.logo {
+    width: 100px;
+    
+}
+
+.menu-icon {
+    width: 30px;
+}
