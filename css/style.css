@@ -1,6 +1,7 @@
 .header {
     background-color: black;
     display: flex;
+    justify-content: space-between;
 }
 
 .logo {
@@ -11,3 +12,26 @@
 .menu-icon {
     width: 30px;
 }
+ .hero {
+    background-color: #529cf1;
+    background-image: url(../images/premium_dancer.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 50vh;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 10px;
+    gap:10px
+    
+
+
+ }
+ .title {
+    color:white;
+    font-family: Roboto,sans-serif;
+    font-size: 5.5rem;
+    
+
+ }
