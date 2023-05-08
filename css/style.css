@@ -36,7 +36,6 @@
 
 .hero {
     background-color: var(--hero-background-color);
-    
     background-position: right;
     background-repeat: no-repeat;
     height: 50vh;
