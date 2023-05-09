@@ -1,0 +1,14 @@
+.beneficios-title {
+    text-align: center;
+    font-family: $font-family;
+}
+
+.benefit {
+    display: flex;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
