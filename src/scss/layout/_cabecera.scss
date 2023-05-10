@@ -29,14 +29,14 @@
       gap: 1rem;
       list-style-type: none;
   }
-      &li{
+      & li{
         color: $primary-font-color;
         text-decoration: none;
         font-family: $font-family;
         font-weight: bold;
         font-size: 1.4rem;
       }
-      &a{
+      & a{
         color: $primary-font-color;
         text-decoration: none;
         font-family: $font-family;
